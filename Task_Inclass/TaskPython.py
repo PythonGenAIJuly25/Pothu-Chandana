@@ -64,7 +64,7 @@ class Solution:
 
 # All 3 test cases passed
 
-/*
+'''
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 
 Input: strs = ["eat","tea","tan","ate","nat","bat"]
@@ -93,9 +93,7 @@ Constraints:
 
 1 <= strs.length <= 104
 0 <= strs[i].length <= 100
-strs[i] consists of lowercase English letters.
-
-*/
+strs[i] consists of lowercase English letters. '''
 
 # solution:
 
