@@ -1,0 +1,11 @@
+https://www.hackerrank.com/challenges/python-string-formatting/problem
+
+https://www.hackerrank.com/challenges/text-alignment/problem
+
+https://pynative.com/print-pattern-python-examples/
+
+ https://realpython.com/python-range/
+
+https://realpython.com/python-namespace/
+
+https://pynative.com/python/file-handling/

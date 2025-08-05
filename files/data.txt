@@ -1,1 +1,1 @@
-This oldword appears multiple times. replace oldword with the given word.
+This newword appears multiple times. replace newword with the given word.
