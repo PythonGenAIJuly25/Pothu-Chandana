@@ -1,4 +1,0 @@
-Hello, this is line 1.
-This is line 2.
-File handling is fun!Python is fun.
-File handling is easy.
